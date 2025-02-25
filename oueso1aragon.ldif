@@ -1,0 +1,25 @@
+# Organisational unit for 1ESOA department
+        dn: ou=1ESOA,dc=vuestroapellido,dc=org
+        changetype: add
+        objectClass: organizationalUnit
+        ou: 1ESOA
+
+        # Organisational unit for 1ESOB department
+        dn: ou=1ESOB,dc=vuestroapellido,dc=org
+        changetype: add
+        objectClass: organizationalUnit
+        ou: 1ESOB
+
+        # Organisational unit for 1ESOC department
+        dn: ou=1ESOC,dc=vuestroapellido,dc=org
+        changetype: add
+        objectClass: organizationalUnit
+        ou: 1ESOC
+
+        # Organisational unit for 1ESOD department
+        dn: ou=1ESOD,dc=vuestroapellido,dc=org
+        changetype: add
+        objectClass: organizationalUnit
+        ou: 1ESOD
+
+        
